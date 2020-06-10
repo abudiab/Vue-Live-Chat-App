@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## Live Preview
+
+> https://vue-live-chat-2eff2.web.app/
+
 ## Build Setup
 
 ``` bash
